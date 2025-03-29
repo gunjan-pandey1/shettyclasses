@@ -1,10 +1,8 @@
 <?php
 
-namespace App\Services;
+namespace App\Services\Auth;
 
 use App\Models\CrmUser;
-use App\Models\AccessRight;
-use App\Models\FullAccessRight;
 
 class AuthorizationService
 {
